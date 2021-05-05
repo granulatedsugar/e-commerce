@@ -183,7 +183,8 @@ class Hero extends React.Component {
   render() {
     return (
         
-      <Carousel
+      <Grid item xs={12} >
+        <Carousel
         className="Example"
         autoPlay={this.state.autoPlay}
         animation={this.state.animation}
@@ -218,6 +219,7 @@ class Hero extends React.Component {
           );
         })}
       </Carousel>
+      </Grid>
     );
   }
 }
