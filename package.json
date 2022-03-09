@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@chec/commerce.js": "^2.4.1",
+    "@chec/commerce.js": "^2.8.0",
     "@material-ui/icons": "^4.11.2",
     "@stripe/react-stripe-js": "^1.4.0",
     "@stripe/stripe-js": "^1.14.0",
@@ -15,7 +15,7 @@
     "react-hook-form": "^7.3.5",
     "react-material-ui-carousel": "^2.2.4",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.0",
     "sass": "^1.32.12",
     "web-vitals": "^1.1.1"
   },
